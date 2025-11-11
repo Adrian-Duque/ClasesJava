@@ -3,7 +3,7 @@ public class ej13 {
 //        ejercicio batman
 
 //         Velocidad inicial (50 km/h -> m/s)
-        double velocidad = 50 * 1000.0 / 3600.0; // 13.8889 m/s
+        double velocidad = 50 / 3.6; // 13.8889 m/s
         double distancia = 0.0;
         int segundos = 0;
 
