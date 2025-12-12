@@ -31,15 +31,18 @@ public class ej26 {
                                 kilos[i] += peso; // Sumamos el peso
                             }
                         }
-                    } catch (NumberFormatException e) {
+                    } catch (
+                            NumberFormatException e) {
                         System.out.println("Error al leer peso: " + partes[1]);
                     }
                 }
             }
-        } catch (Exception ex) {
+        } catch (
+                Exception ex) {
             System.out.println("Mensaje de error: " + ex.getMessage());
         } finally {
-            if (s != null) s.close();
+            if (s != null)
+                s.close();
         }
     }
 
@@ -70,25 +73,25 @@ public class ej26 {
     public static void guardarResumen(double[] kilos) {
         // 1. Imprimir desglose
         for (int i = 0; i < RESIDUOS.length; i++) {
-            System.out.println(RESIDUOS[i] + ":" + (int)kilos[i]);
+            System.out.println(RESIDUOS[i] + ":" + (int) kilos[i]);
         }
 
         // 2. Imprimir Total
         double total = calcularTotalKilos(kilos);
-        System.out.println("TOTAL:" + (int)total);
+        System.out.println("TOTAL:" + (int) total);
 
         // 3. Imprimir el más reciclado
         String masReciclado = buscarMasReciclado(kilos);
 
         // Buscamos el peso específico del ganador para mostrarlo
         double pesoMasReciclado = 0;
-        for(int i = 0; i < RESIDUOS.length; i++){
-            if(RESIDUOS[i].equals(masReciclado)){
+        for (int i = 0; i < RESIDUOS.length; i++) {
+            if (RESIDUOS[i].equals(masReciclado)) {
                 pesoMasReciclado = kilos[i];
             }
         }
 
-        System.out.println("Tipo de residuo más reciclado: " + masReciclado + " (" + (int)pesoMasReciclado + " gramos)");
+        System.out.println("Tipo de residuo más reciclado: " + masReciclado + " (" + (int) pesoMasReciclado + " gramos)");
     }
 
     public static void main(String[] args) {
