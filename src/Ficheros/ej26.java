@@ -37,8 +37,7 @@ public class ej26 {
                     }
                 }
             }
-        } catch (
-                Exception ex) {
+        } catch (Exception ex) {
             System.out.println("Mensaje de error: " + ex.getMessage());
         } finally {
             if (s != null)
