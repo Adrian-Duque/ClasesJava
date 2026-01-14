@@ -1,0 +1,3 @@
+Pedro;Citroen;4528HJK;51.000
+María;Renault;3409KLM;23.000
+Pablo;Renault;1739GHH;210.000
