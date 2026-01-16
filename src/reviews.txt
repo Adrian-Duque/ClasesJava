@@ -1,0 +1,51 @@
+Reina Roja;Alberto;4.5;Si
+Frankenstein;Lucia;4.2;Si
+Patria;Marcos;4.9;Si
+Todo esto te dare;Elena;3.8;Si
+Dracula;Pablo;4.0;Si
+El Laberinto de los Espiritus;Sara;4.7;Si
+El Silencio de la Ciudad Blanca;Javier;3.5;No
+Los pacientes del doctor Garcia;Carmen;4.6;Si
+Invisible;Dani;4.9;Si
+Lucha de gigantes;Rebeca;5.0;Si
+La mala costumbre;Adrian;4.8;Si
+Victoria;Marta;4.3;Si
+Reina Roja;Raul;4.0;Si
+Frankenstein;Sofia;3.5;No
+Patria;David;5.0;Si
+Todo esto te dare;Paula;2.5;No
+Dracula;Oscar;4.5;Si
+El Laberinto de los Espiritus;Irene;4.2;Si
+El Silencio de la Ciudad Blanca;Hugo;4.1;Si
+Los pacientes del doctor Garcia;Alba;4.4;Si
+Invisible;Lucas;4.8;Si
+Lucha de gigantes;Mario;4.9;Si
+La mala costumbre;Julia;4.7;Si
+Victoria;Nerea;4.6;Si
+Reina Roja;Diego;3.2;No
+Frankenstein;Clara;4.0;Si
+Patria;Sergio;4.8;Si
+Todo esto te dare;Lola;3.9;Si
+Dracula;Ivan;3.8;Si
+El Laberinto de los Espiritus;Noelia;4.5;Si
+El Silencio de la Ciudad Blanca;Ruben;2.8;No
+Los pacientes del doctor Garcia;Teresa;4.7;Si
+Invisible;Mateo;5.0;Si
+Lucha de gigantes;Victor;4.8;Si
+La mala costumbre;Silvia;4.9;Si
+Victoria;Ramon;3.7;Si
+Reina Roja;Beatriz;4.4;Si
+Frankenstein;Jorge;4.1;Si
+Patria;Angela;4.9;Si
+Todo esto te dare;Miguel;3.0;No
+Dracula;Lorena;4.3;Si
+El Laberinto de los Espiritus;Enrique;4.6;Si
+El Silencio de la Ciudad Blanca;Gema;3.9;Si
+Los pacientes del doctor Garcia;Fran;4.5;Si
+Invisible;Ines;4.7;Si
+Lucha de gigantes;Natalia;5.0;Si
+La mala costumbre;Alex;4.6;Si
+Victoria;Sonia;4.4;Si
+Invisible;Tomas;4.9;Si
+Lucha de gigantes;Pilar;5.0;Si
+Invisible;Ana;4;si

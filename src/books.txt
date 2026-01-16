@@ -1,0 +1,12 @@
+Enero;Reina Roja;Juan Gomez-Jurado;Thriller;568
+Febrero;Frankenstein;Mary Shelley;Clasico;168
+Marzo;Patria;Fernando Aramburu;Narrativa;656
+Abril;Todo esto te dare;Dolores Redondo;Narrativa;624
+Mayo;Dracula;Bram Stoker;Clasico;496
+Junio;El Laberinto de los Espiritus;Carlos Ruiz Zafon;Narrativa;928
+Julio;El Silencio de la Ciudad Blanca;Eva Garcia Saenz;Thriller;480
+Agosto;Los pacientes del doctor Garcia;Almudena Grandes;Historica;768
+Septiembre;Invisible;Eloy Moreno;Juvenil;304
+Octubre;Lucha de gigantes;Pedro Lara Bercial;Ensayo;280
+Noviembre;La mala costumbre;Alana S. Portero;Narrativa;256
+Diciembre;Victoria;Paloma Sanchez-Garnica;Historica;640
